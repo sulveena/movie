@@ -1,0 +1,16 @@
+.contentStyle {
+  padding: 0px;
+}
+.contentBody {
+  background: teal;
+  padding: 24px;
+  min-height: 500px;
+}
+.headerTitle {
+  color: wheat !important;
+  margin-top: 16px;
+}
+
+.footer {
+  text-align: center;
+}
